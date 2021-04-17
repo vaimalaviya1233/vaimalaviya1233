@@ -3,7 +3,7 @@
 
 <a href="https://github.com/vaimalaviya1233">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaimalaviya1233&layout=compact&theme=onedark&bg_color=0d1117" />
-</a><br>
+</a><br><br>
 <a href="https://github.com/vaimalaviya1233/JavaFiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaimalaviya1233&repo=JavaFiles&show_owner=true&theme=onedark&bg_color=0d1117" />
 </a><br>
