@@ -7,9 +7,9 @@
 <a href="https://github.com/vaimalaviya1233/JavaFiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaimalaviya1233&repo=JavaFiles&show_owner=true&theme=onedark&bg_color=0d1117" />
 </a><br><br>
-<a href="https://github.com/vaimalaviya1233">
+<!-- a href="https://github.com/vaimalaviya1233">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaimalaviya1233&show_icons=true&theme=onedark&bg_color=0d1117&include_all_commits=false&count_private=true&show_icons=true" />
-</a><br>
+</a><br -->
 
 <!--
 **vaimalaviya1233/vaimalaviya1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
