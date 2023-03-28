@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨special ✨
+<!-- a✨special ✨ -->
 
 <a href="https://github.com/vaimalaviya1233">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaimalaviya1233&layout=compact&theme=onedark&bg_color=0d1117" />
@@ -14,14 +14,17 @@
 <!--
 **vaimalaviya1233/vaimalaviya1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working Computer Science.
+- 🌱 I’m currently learning Java/C++/Android
+- 👯 I’m looking to collaborate on Android/Java/C++/Chrome Extensions
+- 🤔 I’m looking for help with :))
+- 💬 Ask me about Java/Android
+- 📫 How to reach me: Email - <a href="mailto:vaibhavmalaviya1233@gmail.com">vaibhavmalaviya1233@gmail.com</a> are late communication but Best available yet.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: It's All the time! learning to code!📔
+- Look at That Below👇 
+- ![CodingTypingGIF (2)](https://user-images.githubusercontent.com/55515799/228380797-ce4be3a6-3cc1-44af-9760-7bcddfe401b4.gif)
+
+
