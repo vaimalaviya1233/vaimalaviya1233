@@ -4,9 +4,9 @@
 <a href="https://github.com/vaimalaviya1233">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaimalaviya1233&layout=compact&theme=onedark&bg_color=0d1117" />
 </a><br><br>
-<a href="https://github.com/vaimalaviya1233/JavaFiles">
+<!-- a href="https://github.com/vaimalaviya1233/JavaFiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaimalaviya1233&repo=JavaFiles&show_owner=true&theme=onedark&bg_color=0d1117" />
-</a><br><br>
+</a><br><br -->
 <!-- a href="https://github.com/vaimalaviya1233">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaimalaviya1233&show_icons=true&theme=onedark&bg_color=0d1117&include_all_commits=false&count_private=true&show_icons=true" />
 </a><br -->
