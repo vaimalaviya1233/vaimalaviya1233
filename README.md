@@ -17,7 +17,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working Computer Science.
-- 🌱 I’m currently learning Java/C++/Android
+- 🌱 I’m currently learning Java/C++/Android/Python
 - 👯 I’m looking to collaborate on Android/Java/C++/Chrome Extensions
 - 🤔 I’m looking for help with :))
 - 💬 Ask me about Java/Android
