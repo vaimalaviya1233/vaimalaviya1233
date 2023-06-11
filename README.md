@@ -24,7 +24,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: Email - <a href="mailto:vaibhavmalaviya1233@gmail.com">vaibhavmalaviya1233@gmail.com</a> are late communication but Best available yet.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's All the time! learning to code!📔
-- Look at That Below👇 
-- ![CodingTypingGIF (2)](https://user-images.githubusercontent.com/55515799/228380797-ce4be3a6-3cc1-44af-9760-7bcddfe401b4.gif)
+- <!-- ![CodingTypingGIF (2)](https://user-images.githubusercontent.com/55515799/228380797-ce4be3a6-3cc1-44af-9760-7bcddfe401b4.gif) -->
 
 
