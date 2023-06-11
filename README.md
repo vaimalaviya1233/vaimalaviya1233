@@ -16,11 +16,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working Computer Science.
-- 🌱 I’m currently learning Java/C++/Android/Python
-- 👯 I’m looking to collaborate on Android/Java/C++/Chrome Extensions
+- 🔭 I’m currently Studying for Computer Science.
+- 🌱 I’m currently learning Java/C++/Android/Python/Kotlin
 - 🤔 I’m looking for help with :))
-- 💬 Ask me about Java/Android
+- 💬 Ask me about Java/Android.
 - 📫 How to reach me: Email - <a href="mailto:vaibhavmalaviya1233@gmail.com">vaibhavmalaviya1233@gmail.com</a> are late communication but Best available yet.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's All the time! learning to code!📔
