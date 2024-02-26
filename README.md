@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Vaimalaviya1233/vaimalaviya1233)
+
 ### Hi there 👋
 <!-- a✨special ✨ -->
 
