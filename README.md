@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Vaimalaviya1233/vaimalaviya1233)
-
+<a href="https://hits.sh/github.com/t8rin/modalsheet/"><img alt="Hits" src="https://hits.sh/github.com/t8rin/modalsheet.svg?style=for-the-badge&label=Views&color=ea443a"/></a>
 ### Hi there 👋
 <!-- a✨special ✨ -->
 
